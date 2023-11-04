@@ -13,4 +13,4 @@ That was the point when my existential questioning began:
 - Is it wrong?
 - Did I use bad grammar? If it’s wrong, then why was it used in a video parody?
 
-Because she was strict, I wasn’t brave enough to ask her [why]().
+Because she was strict, I wasn’t brave enough to ask her [why](https://github.com/BenjaminHaverla/The-silent-memory.git).
